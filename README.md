@@ -2,7 +2,7 @@
 
 Built with the Next.js App Router, Postgres, TypeScript, Tailwind & Clerk
 
-![Project Image](https://github.com/ismlovaz/ping-panda.git/public/thumbnail.png)
+![Project Image](https://github.com/ismlovaz/ping-panda/blob/main/public/thumbnail.png)
 
 ## Features
 
