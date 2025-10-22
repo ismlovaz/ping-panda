@@ -18,6 +18,9 @@ Built with the Next.js App Router, Postgres, TypeScript, Tailwind & Clerk
 - ⌨️ 100% written in TypeScript
 - 🎁 ...much more
 
+## NOTE
+
+This project was developed as part of a learning course and skill enhancement from [Josh Tried Coding](https://www.youtube.com/@joshtriedcoding)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
